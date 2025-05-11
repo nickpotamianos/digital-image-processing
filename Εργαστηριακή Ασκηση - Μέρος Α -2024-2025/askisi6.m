@@ -4,7 +4,6 @@
 %   1) Sobel gradient magnitude and direction
 %   2) Global thresholding with multiple options
 %   3) BONUS: Hough line detection, visualization, and vanishing point analysis
-%   4) BONUS: Full-screen displays of all key results
 %
 % Author: ANGELOS NIKOLAOS POTAMIANOS
 % Date  : MAY 2025
