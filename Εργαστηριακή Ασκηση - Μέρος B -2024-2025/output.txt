@@ -1,0 +1,33 @@
+[Part B]  HOG + SVM on MNIST (MATLAB) – FINAL
+   ⏬  Downloading train-images-idx3-ubyte ...
+      Primary mirror failed – trying alternative...
+   ⏬  Downloading train-labels-idx1-ubyte ...
+      Primary mirror failed – trying alternative...
+   ⏬  Downloading t10k-images-idx3-ubyte ...
+      Primary mirror failed – trying alternative...
+   ⏬  Downloading t10k-labels-idx1-ubyte ...
+      Primary mirror failed – trying alternative...
+
+[1]  HOG + SVM  (CellSize = [4 4])
+      HOG(Train)  60000×1296   (25.1s)
+      Train Acc : 99.99 %
+      Test Acc  : 97.99 %   (HOG(Test) 4.2s)
+
+[1]  HOG + SVM  (CellSize = [7 7])
+      HOG(Train)  60000×324   (24.0s)
+      Train Acc : 98.95 %
+      Test Acc  : 98.25 %   (HOG(Test) 4.0s)
+
+[1]  HOG + SVM  (CellSize = [8 8])
+      HOG(Train)  60000×144   (23.7s)
+      Train Acc : 96.43 %
+      Test Acc  : 96.53 %   (HOG(Test) 4.1s)
+
+[1]  HOG + SVM  (CellSize = [14 14])
+      HOG(Train)  60000×36   (23.7s)
+      Train Acc : 87.22 %
+      Test Acc  : 88.53 %   (HOG(Test) 3.9s)
+
+[4]  BONUS: manual HOG  (CellSize [4 4])
+      BONUS Test Accuracy : 97.74 %
+>> 
